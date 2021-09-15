@@ -11,7 +11,7 @@ Kick off your next [Shopify](https://www.shopify.com/) project with this boilerp
 
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
-[<img src="https://www.gatsbyjs.com/deploynow.png" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-shopify)
+[<img src="https://www.gatsbyjs.com/deploynow.png" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsby-inc/gatsby-starter-shopify-beta)
 
 Check out the [demo site](https://shopify-demo.gatsbyjs.com) showcasing a proof-of-concept with 10k products and 30k variants.
 
