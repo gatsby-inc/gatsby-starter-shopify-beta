@@ -112,9 +112,7 @@ function SearchPage({
   // If we're using the default filters, use the products from the Gatsby data layer.
   // Otherwise, use the data from search.
   const isDefault = !data
-  const productList = React.useMemo(() => {
-    return (isDefault ? products.edges : data?.products?.edges) ?? []
-  }, [data, products, isDefault])
+  const productList = (isDefault ? products.edges : data?.products?.edges) ?? []
 
   // Scroll up when navigating
   React.useEffect(() => {
